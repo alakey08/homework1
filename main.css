@@ -1,0 +1,37 @@
+
+    
+    body{ background-color: grey;
+        padding: 30px 250px 10px 150px;
+        margin: auto;
+
+}
+    .global{ padding: 5px 20px 30px 40px;
+        margins:10px;
+        
+    
+        background-color: white;
+            -webkit-box-shadow: 13px 6px 26px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 13px 6px 26px -2px rgba(0,0,0,0.75);
+box-shadow: 13px 6px 26px -2px rgba(0,0,0,0.75);
+        margin: auto;
+  width: 50%;
+  padding: 10px;}
+    
+    
+    
+    
+    .ab{
+        font:bold 35px/30px Times New Roman,sans-serif;
+        text-align: center;     
+    }
+    .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+    .ac{
+        font: 20px Times New Roman;
+        text-align:justify;
+        margin-bottom: 10px;
+    }
